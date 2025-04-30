@@ -1,4 +1,5 @@
 # Calculator MCP Server
+[![smithery badge](https://smithery.ai/badge/@rishipradeep-think41/math-mcp)](https://smithery.ai/server/@rishipradeep-think41/math-mcp)
 
 A comprehensive calculator implemented as a Model Context Protocol (MCP) server using TypeScript.
 
@@ -28,6 +29,15 @@ Provides MCP tools for:
 
 ## Installation
 
+### Installing via Smithery
+
+To install math-mcp for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@rishipradeep-think41/math-mcp):
+
+```bash
+npx -y @smithery/cli install @rishipradeep-think41/math-mcp --client claude
+```
+
+### Manual Installation
 1.  Clone the repository:
     ```bash
     git clone https://github.com/mvavassori/calculator-mcp-server.git
